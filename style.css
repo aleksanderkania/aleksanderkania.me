@@ -1,0 +1,29 @@
+body {
+    height: 100%;
+    display: grid;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+.container {
+    margin: auto;
+}
+
+.media-badges {
+    display: flex;
+    width: 70%;
+    justify-content: space-between;
+    flex-wrap: wrap;
+
+}
+
+#header {
+    font-size: 50;
+}
+
+.box {
+    background-color: rebeccapurple;
+    width: 20px;
+    height: 20px;
+    margin: 20px,20px,20px,20px;
+}
